@@ -9,7 +9,7 @@ public class Prueba {
 		
 		System.out.println("soy sergio");
 		
-		System.out.println("Soy javi");
+		System.out.println("Soy javi, probando segunda vez");
 	}
 
 }
